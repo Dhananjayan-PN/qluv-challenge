@@ -1,0 +1,24 @@
+{
+  "name": "qluv-challenge",
+  "version": "1.0.0",
+  "description": "qluv-challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node client.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhananjayan-PN/qluv-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhananjayan-PN/qluv-challenge/issues"
+  },
+  "homepage": "https://github.com/Dhananjayan-PN/qluv-challenge#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
